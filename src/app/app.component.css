@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-fluid{
+    padding: 0;
+}
+
+h1{
+    background: #5544;
+    text-align: center;
+}
